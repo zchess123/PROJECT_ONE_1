@@ -1,0 +1,3 @@
+language = "java"
+run = "javac -d target -cp src src/main/java/Talk.java && java -cp target main.java.Talk -a"
+
